@@ -1,0 +1,2 @@
+MainPackage=D:\PROJECTS\test\UWP.HelloWorld\UWP.HelloWorld\bin\x86\Debug\UWP.HelloWorld_1.0.0.0_x86_Debug.msix
+SymbolPackage=D:\PROJECTS\test\UWP.HelloWorld\UWP.HelloWorld\obj\x86\Debug\Symbols\UWP.HelloWorld_1.0.0.0_x86_Debug.appxsym
