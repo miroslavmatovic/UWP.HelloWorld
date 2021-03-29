@@ -9,6 +9,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
+        <TextBox Text="This is my UWP app" TextWrapping="Wrap"/>
 
     </Grid>
 </Page>
